@@ -1,0 +1,1624 @@
+.bg1,
+.black-bg1 {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  background-color: var(--color-whitesmoke);
+  width: 1029px;
+  height: 1102px;
+}
+.black-bg1 {
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1031px;
+  height: 387px;
+}
+.social-medias-icon1 {
+  position: absolute;
+  top: 39px;
+  left: 95px;
+  width: 212.7px;
+  height: 38px;
+}
+.a-propos3,
+.contact1 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.a-propos3 {
+  top: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 158px;
+  height: 20.8px;
+}
+.contact1 {
+  top: 58.5px;
+  width: 155.3px;
+  height: 18.2px;
+}
+.a-propos2,
+.news-blog1 {
+  position: absolute;
+  width: 198.9px;
+}
+.news-blog1 {
+  top: 100.1px;
+  left: 0;
+  display: inline-block;
+  height: 18.2px;
+}
+.a-propos2 {
+  top: 133.6px;
+  left: 95px;
+  height: 118.4px;
+}
+.entreprise3,
+.partenaires1 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.entreprise3 {
+  top: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 207.1px;
+  height: 20.8px;
+}
+.partenaires1 {
+  top: 58.5px;
+  width: 196.2px;
+  height: 18.2px;
+}
+.entreprise2 {
+  position: absolute;
+  top: 133.6px;
+  left: 446.5px;
+  width: 207.1px;
+  height: 118.4px;
+}
+.terms-politique1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: inline-block;
+  width: 438.7px;
+  height: 20.8px;
+}
+.politique-de-confidentialite1,
+.support1 {
+  position: absolute;
+  top: 58.5px;
+  left: 0;
+  display: inline-block;
+  width: 415.6px;
+  height: 18.2px;
+}
+.support1 {
+  top: 100.1px;
+  width: 421.4px;
+}
+.terms-et-politique1 {
+  position: absolute;
+  top: 133.6px;
+  left: 784.3px;
+  width: 438.7px;
+  height: 118.4px;
+}
+.black-bg-content {
+  position: absolute;
+  top: 715px;
+  left: 0;
+  width: 1223px;
+  height: 387px;
+  color: var(--color-darkgray);
+}
+.button-border8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 181.7px;
+  height: 37px;
+}
+.prenom1 {
+  position: absolute;
+  top: 14px;
+  left: 60px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 58px;
+  height: 10px;
+}
+.nom1,
+.reservez-button6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 181.7px;
+  height: 37px;
+}
+.nom1 {
+  top: 12px;
+  left: 71.6px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 38px;
+  height: 10px;
+}
+.email1,
+.reservez-button7 {
+  position: absolute;
+  top: 0;
+  left: 200.4px;
+  width: 181.7px;
+  height: 37px;
+}
+.email1 {
+  top: 12px;
+  left: 71.2px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 39px;
+  height: 10px;
+}
+.button-border11,
+.reservez-button8 {
+  position: absolute;
+  top: 0;
+  left: 400.8px;
+  width: 181.7px;
+  height: 37px;
+}
+.button-border11 {
+  left: 0;
+  background-color: var(--color-black);
+}
+.sabonner-maintenant1 {
+  position: absolute;
+  top: 12px;
+  left: 17.7px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 149px;
+  height: 18px;
+}
+.universel-button1 {
+  position: absolute;
+  top: 0;
+  left: 600.3px;
+  width: 181.7px;
+  height: 37px;
+  color: var(--color-white);
+}
+.buttons1 {
+  position: absolute;
+  top: 606px;
+  left: 130px;
+  width: 782px;
+  height: 37px;
+}
+.pour-rendre-votre,
+.sabonner-notre1 {
+  position: absolute;
+  display: inline-block;
+}
+.sabonner-notre1 {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  width: 460.5px;
+  height: 92px;
+}
+.pour-rendre-votre {
+  top: 59px;
+  left: 28px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-questrial);
+  color: var(--color-gray-200);
+  width: 398px;
+  height: 37px;
+}
+.sabonner1 {
+  position: absolute;
+  top: 492px;
+  left: 289px;
+  width: 460.5px;
+  height: 96px;
+  font-size: var(--font-size-18xl);
+  font-family: var(--font-inria-serif);
+}
+.footer1 {
+  position: absolute;
+  top: 3163px;
+  left: -7px;
+  width: 1223px;
+  height: 1102px;
+}
+.photos-child,
+.photos-inner,
+.photos-item {
+  position: absolute;
+  top: 0;
+  left: 406.4px;
+  width: 109.6px;
+  height: 122.4px;
+  object-fit: cover;
+}
+.photos-inner,
+.photos-item {
+  top: 30.9px;
+  left: 244.7px;
+  width: 134.1px;
+  height: 163.8px;
+}
+.photos-inner {
+  top: 71.3px;
+  left: 0;
+  width: 217px;
+  height: 246.8px;
+}
+.photos {
+  position: absolute;
+  top: 12.8px;
+  left: 355.3px;
+  width: 516px;
+  height: 318.1px;
+}
+.star-icon5,
+.star-icon6 {
+  position: absolute;
+  height: 11.7px;
+}
+.star-icon5 {
+  top: 0;
+  left: 0;
+  width: 11.7px;
+  object-fit: cover;
+}
+.star-icon6 {
+  left: 17px;
+}
+.star-icon6,
+.star-icon7,
+.star-icon8 {
+  top: 0;
+  width: 11.7px;
+  object-fit: cover;
+}
+.star-icon7 {
+  position: absolute;
+  left: 34px;
+  height: 11.7px;
+}
+.star-icon8 {
+  left: 51.1px;
+}
+.star-icon8,
+.star-icon9,
+.stars1 {
+  position: absolute;
+  height: 11.7px;
+}
+.star-icon9 {
+  top: 0;
+  left: 68.1px;
+  width: 11.7px;
+  object-fit: cover;
+}
+.stars1 {
+  top: 255.3px;
+  left: 242.5px;
+  width: 79.8px;
+}
+.arrow-right-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 35.1px;
+  height: 28.7px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 2.1px;
+  left: 8.5px;
+  width: 19.2px;
+  height: 24.4px;
+  object-fit: cover;
+}
+.arrow-left-inner,
+.arrow-right1 {
+  position: absolute;
+  top: 0;
+  left: 38.3px;
+  width: 35.1px;
+  height: 28.7px;
+}
+.arrow-left-inner {
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.arrow-left-child1 {
+  position: absolute;
+  top: 1.1px;
+  left: 12.8px;
+  width: 10.6px;
+  height: 24.5px;
+  object-fit: cover;
+}
+.arrow-left1,
+.arrows1,
+.que-disent-les1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 35.1px;
+  height: 28.7px;
+}
+.arrows1,
+.que-disent-les1 {
+  top: 306.4px;
+  left: 247.9px;
+  width: 73.4px;
+}
+.que-disent-les1 {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  width: 434.1px;
+  height: 97.9px;
+}
+.le-service-client1 {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+}
+.blank-line1 {
+  margin: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.le-service-client-container1 {
+  position: absolute;
+  top: 84px;
+  left: 1px;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 321.3px;
+  height: 109.6px;
+  color: var(--color-dimgray);
+}
+.alex-smith1,
+.photographe1 {
+  position: absolute;
+  letter-spacing: 0.03em;
+  display: inline-block;
+  height: 13.8px;
+}
+.photographe1 {
+  top: 255.3px;
+  left: 1px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray);
+  width: 88.3px;
+}
+.alex-smith1 {
+  top: 231.9px;
+  left: 3.2px;
+  font-size: 17px;
+  width: 94.7px;
+}
+.testimonials2,
+.text3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 434.1px;
+  height: 269.2px;
+}
+.testimonials2 {
+  height: 335.1px;
+}
+.blured-element-on-bg,
+.section-51 {
+  position: absolute;
+  top: 151.9px;
+  left: 615.8px;
+  width: 323.2px;
+  height: 483.6px;
+}
+.section-51 {
+  top: 3198.3px;
+  left: 85px;
+  width: 1070px;
+  height: 522.3px;
+  font-size: var(--font-size-18xl);
+}
+.dcouvrez-notre-galerie1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 592.4px;
+  height: 40.3px;
+}
+.button-border12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 104.4px;
+  height: 35.2px;
+}
+.classique {
+  position: absolute;
+  top: 11.4px;
+  left: 17.6px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 67.2px;
+  height: 9.3px;
+}
+.button-border13,
+.classique-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 104.4px;
+  height: 35.2px;
+}
+.button-border13 {
+  background-color: var(--color-black);
+}
+.universel {
+  position: absolute;
+  top: 11.4px;
+  left: 20.7px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 64.1px;
+  height: 9.3px;
+}
+.button-border14,
+.universel-button2 {
+  position: absolute;
+  top: 0;
+  height: 35.2px;
+}
+.universel-button2 {
+  left: 221.2px;
+  width: 104.4px;
+  color: var(--color-white);
+}
+.button-border14 {
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 102.3px;
+}
+.superieur {
+  position: absolute;
+  top: 11.4px;
+  left: 16.5px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 70.3px;
+  height: 9.3px;
+}
+.suite,
+.superieur-button {
+  position: absolute;
+  top: 0;
+  left: 331.9px;
+  width: 102.3px;
+  height: 35.2px;
+}
+.suite {
+  top: 11.4px;
+  left: 35.2px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 36.2px;
+  height: 9.3px;
+}
+.class-jum,
+.suite-button {
+  position: absolute;
+  top: 0;
+  left: 441.4px;
+  width: 104.4px;
+  height: 35.2px;
+}
+.class-jum {
+  top: 11.4px;
+  left: 12.4px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 92px;
+  height: 9.3px;
+}
+.buttons2,
+.classique-jum-button {
+  position: absolute;
+  top: 0;
+  left: 110.6px;
+  width: 104.4px;
+  height: 35.2px;
+}
+.buttons2 {
+  top: 68.2px;
+  left: 5.2px;
+  width: 545.9px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-questrial);
+}
+.title-and-buttons {
+  position: absolute;
+  top: 81.7px;
+  left: 245px;
+  width: 592.4px;
+  height: 103.4px;
+}
+.climatise1 {
+  margin: 0;
+}
+.chambre-confortble-decore-container1 {
+  position: absolute;
+  top: 446.2px;
+  left: 0;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 398.3px;
+  height: 124.4px;
+}
+.waiting-area-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 403px;
+  height: 420.3px;
+  object-fit: cover;
+}
+.button-border17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 104.4px;
+  height: 43.4px;
+}
+.reservez3 {
+  position: absolute;
+  top: 14.5px;
+  left: 17.6px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 65.1px;
+  height: 11.4px;
+}
+.reservez-button9 {
+  position: absolute;
+  top: 526.9px;
+  left: 0;
+  width: 104.4px;
+  height: 43.4px;
+  color: var(--color-black);
+}
+.waiting-area1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 403px;
+  height: 570.6px;
+}
+.les-chambres-suprieures-container1 {
+  position: absolute;
+  top: 446.2px;
+  left: 0;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 403.2px;
+  height: 124.1px;
+}
+.bed-and-view3 {
+  position: absolute;
+  top: 0;
+  left: 0.2px;
+  width: 403px;
+  height: 420.3px;
+  object-fit: cover;
+}
+.reservez4 {
+  position: absolute;
+  top: 14.5px;
+  left: 19.6px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 66.2px;
+  height: 11.4px;
+}
+.bed-and-view2,
+.offers1 {
+  position: absolute;
+  top: 0;
+  left: 464.2px;
+  width: 403.2px;
+  height: 570.3px;
+}
+.offers1 {
+  top: 285.7px;
+  left: 110.6px;
+  width: 867.4px;
+  height: 570.6px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-200);
+  font-family: var(--font-questrial);
+}
+.blured-element-on-bg1,
+.section-41 {
+  position: absolute;
+  top: -117.9px;
+  left: 22px;
+  width: 334px;
+  height: 447.7px;
+}
+.section-41 {
+  top: 2222px;
+  left: -22px;
+  width: 978px;
+  height: 856.3px;
+  font-size: var(--font-size-20xl);
+  font-family: var(--font-inria-serif);
+}
+.button-border19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 103.2px;
+  height: 42.9px;
+}
+.reservez5 {
+  position: absolute;
+  top: 15.3px;
+  left: 20.4px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 64.3px;
+  height: 11.2px;
+}
+.reservez-button11 {
+  position: absolute;
+  top: 617.9px;
+  left: 636.3px;
+  width: 103.2px;
+  height: 42.9px;
+}
+.les-services-du-container1,
+.nos-services1 {
+  position: absolute;
+  top: 73.5px;
+  left: 0;
+  display: inline-block;
+  width: 409.5px;
+  height: 60.3px;
+}
+.nos-services1 {
+  top: 0;
+  left: 92.9px;
+  font-size: var(--font-size-20xl);
+  letter-spacing: -0.02em;
+  font-family: var(--font-inria-serif);
+  text-align: left;
+  width: 222.6px;
+  height: 39.8px;
+}
+.header {
+  position: absolute;
+  top: 29.6px;
+  left: 369.7px;
+  width: 409.5px;
+  height: 133.8px;
+  text-align: center;
+}
+.salle-de-detente1 {
+  position: absolute;
+  top: 62.3px;
+  left: 44.9px;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 132.8px;
+  height: 16.3px;
+}
+.detente-box1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 208.3px;
+  height: 103.2px;
+}
+.detente-icon1 {
+  position: absolute;
+  top: 19.4px;
+  left: 82.7px;
+  width: 38.8px;
+  height: 31.7px;
+  object-fit: cover;
+}
+.detente1,
+.restaurant-box1 {
+  position: absolute;
+  top: 0;
+  left: 222.6px;
+  width: 208.3px;
+  height: 103.2px;
+}
+.restaurant-box1 {
+  left: 0;
+  background-color: var(--color-black);
+  width: 211.4px;
+}
+.restaurant4 {
+  position: absolute;
+  top: 64.3px;
+  left: 61.1px;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 94.3px;
+  height: 16.3px;
+}
+.restaurant-icon1 {
+  position: absolute;
+  top: 18.4px;
+  left: 88.1px;
+  width: 37.3px;
+  height: 38.8px;
+  object-fit: cover;
+}
+.restaurant3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 211.4px;
+  height: 103.2px;
+  color: var(--color-peru);
+}
+.salle-de-conference1 {
+  position: absolute;
+  top: 64.3px;
+  left: 26.6px;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 164.4px;
+  height: 16.3px;
+}
+.conference-icon1 {
+  position: absolute;
+  top: 16.3px;
+  left: 81.7px;
+  width: 41.9px;
+  height: 38.8px;
+  object-fit: cover;
+}
+.conference-box1,
+.conference1,
+.piscine3 {
+  position: absolute;
+  top: 0;
+  width: 202px;
+  height: 101px;
+}
+.conference-box1 {
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+}
+.conference1,
+.piscine3 {
+  left: 442.2px;
+}
+.piscine3 {
+  top: 64.3px;
+  left: 73.5px;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 58.2px;
+  height: 16.3px;
+}
+.piscine-box1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 207.3px;
+  height: 103.2px;
+}
+.piscine-icon1 {
+  position: absolute;
+  top: 11.2px;
+  left: 78.6px;
+  width: 63.3px;
+  height: 40.9px;
+  object-fit: cover;
+}
+.options,
+.piscine2 {
+  position: absolute;
+  top: 0;
+  left: 658.7px;
+  width: 207.3px;
+  height: 103.2px;
+}
+.options {
+  top: 211.4px;
+  left: 140.9px;
+  width: 866.1px;
+  font-size: var(--font-size-base);
+}
+.nous-sommes-respesctueux1 {
+  margin-block-start: 0;
+  margin-block-end: 11px;
+}
+.nous-sommes-respesctueux-container1,
+.restaurant5 {
+  position: absolute;
+  top: 43.9px;
+  left: 0;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 381px;
+  height: 60.3px;
+}
+.restaurant5 {
+  top: 0;
+  font-size: 22px;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  width: 137.9px;
+  height: 28.6px;
+}
+.lorem-child,
+.text-header1 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 381px;
+  height: 104.2px;
+}
+.lorem-child {
+  top: 2px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-peru);
+  width: 7.1px;
+  height: 7.1px;
+}
+.lorem-ipsum-text {
+  position: absolute;
+  top: 0;
+  left: 20.4px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 122.6px;
+  height: 11.2px;
+}
+.lorem1,
+.lorem2,
+.lorem3,
+.lorem4 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 143px;
+  height: 11.2px;
+}
+.lorem2,
+.lorem3,
+.lorem4 {
+  top: 0;
+  left: 184.9px;
+}
+.lorem3,
+.lorem4 {
+  top: 33.7px;
+  left: 0;
+}
+.lorem4 {
+  top: 32.7px;
+  left: 184.9px;
+}
+.lorem,
+.lorem5,
+.lorem6,
+.lorem7,
+.lorem8,
+.text4 {
+  position: absolute;
+  top: 66.4px;
+  left: 0;
+  width: 143px;
+  height: 11.2px;
+}
+.lorem,
+.lorem6,
+.lorem7,
+.lorem8,
+.text4 {
+  top: 65.4px;
+  left: 184.9px;
+}
+.lorem,
+.lorem7,
+.lorem8,
+.text4 {
+  top: 99.1px;
+  left: 0;
+}
+.lorem,
+.lorem8,
+.text4 {
+  top: 98px;
+  left: 184.9px;
+}
+.lorem,
+.text4 {
+  top: 134.8px;
+  left: 0;
+  width: 327.8px;
+  height: 110.3px;
+}
+.text4 {
+  top: 347.2px;
+  left: 636.3px;
+  width: 382px;
+  height: 245.1px;
+}
+.blured-element-on-bg2 {
+  position: absolute;
+  top: -118.1px;
+  left: 51px;
+  width: 302.4px;
+  height: 445.6px;
+}
+.blured-element-on-bg3 {
+  position: absolute;
+  top: 527.4px;
+  left: 815.4px;
+  width: 259.6px;
+  height: 443.4px;
+}
+.meal-and-view-marina1 {
+  position: absolute;
+  top: 356.4px;
+  left: 139.9px;
+  width: 466.7px;
+  height: 304.4px;
+  object-fit: cover;
+}
+.section-31 {
+  position: absolute;
+  top: 1544.1px;
+  left: -51px;
+  width: 1159px;
+  height: 851.8px;
+}
+.section-2-bg1,
+.top-left-bed {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.section-2-bg1 {
+  background-color: var(--color-snow);
+  width: 1024px;
+  height: 687px;
+}
+.top-left-bed {
+  width: 384.7px;
+  height: 247px;
+  object-fit: cover;
+}
+.bottom-left-bed-item,
+.bottom-right-bed {
+  position: absolute;
+  top: 236px;
+  left: 422.8px;
+  width: 448.6px;
+  height: 297px;
+  object-fit: cover;
+}
+.bottom-left-bed-item {
+  top: 0;
+  left: 0;
+  width: 384.7px;
+  height: 248px;
+}
+.orange-band1,
+.transparent-bg1 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-gainsboro-100);
+  width: 185.6px;
+  height: 127px;
+}
+.orange-band1 {
+  top: 1px;
+  left: 0;
+  background-color: var(--color-peru);
+  width: 5.2px;
+  height: 126px;
+}
+.discount-bg-box1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 186.7px;
+  height: 127px;
+}
+.de-reduction1,
+.div1,
+.ou-plus1,
+.sejour-2-nuits1 {
+  position: absolute;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.de-reduction1 {
+  top: 23px;
+  left: 59.8px;
+  font-weight: 600;
+  font-family: var(--font-gothic-a1);
+  width: 98px;
+}
+.div1,
+.ou-plus1,
+.sejour-2-nuits1 {
+  top: 57px;
+  left: 0;
+  width: 106.2px;
+}
+.div1,
+.ou-plus1 {
+  top: 78px;
+  left: 2.1px;
+  width: 55.7px;
+}
+.div1 {
+  top: 0;
+  left: 0;
+  font-size: 31px;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  width: 71.2px;
+  height: 30px;
+}
+.discount-box-content1 {
+  position: absolute;
+  top: 16px;
+  left: 19.6px;
+  width: 157.8px;
+  height: 90px;
+}
+.bottom-left-bed1,
+.discount-box1 {
+  position: absolute;
+  top: 121px;
+  left: 0;
+  width: 186.7px;
+  height: 127px;
+}
+.bottom-left-bed1 {
+  top: 285px;
+  width: 384.7px;
+  height: 248px;
+}
+.beds,
+.bg-beds-photos-only {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 871.5px;
+  height: 533px;
+}
+.bg-beds-photos-only {
+  top: 10px;
+}
+.nos-meilleures-chambres1 {
+  position: absolute;
+  top: 0;
+  left: 1.9px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 484.1px;
+  height: 39px;
+}
+.habituellement-le-plus-container1 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-questrial);
+  display: inline-block;
+  width: 447px;
+  height: 35px;
+}
+.text5 {
+  position: absolute;
+  top: 0;
+  left: 0.2px;
+  width: 486px;
+  height: 97px;
+  font-family: var(--font-inria-serif);
+}
+.button-border20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 114.1px;
+  height: 46px;
+}
+.voir-les-offres1 {
+  position: absolute;
+  top: 16px;
+  left: 12.7px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 92px;
+  height: 12px;
+}
+.offers-button1 {
+  position: absolute;
+  top: 141px;
+  left: 334.5px;
+  width: 114.1px;
+  height: 46px;
+  font-size: var(--font-size-mini);
+}
+.ellipse-tv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-peru);
+  box-sizing: border-box;
+  width: 55.3px;
+  height: 53.6px;
+}
+.tv-led1 {
+  position: absolute;
+  top: 61.2px;
+  left: 5.9px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 49.3px;
+  height: 11.5px;
+}
+.led-tv-icon1 {
+  position: absolute;
+  top: 14.4px;
+  left: 6.9px;
+  width: 41.4px;
+  height: 24.9px;
+  object-fit: cover;
+}
+.climatisee1,
+.led-tv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 55.3px;
+  height: 72.7px;
+}
+.climatisee1 {
+  top: 61.2px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 73px;
+  height: 11.5px;
+}
+.ellipse-ac1 {
+  position: absolute;
+  top: 0;
+  left: 8.9px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-peru);
+  box-sizing: border-box;
+  width: 55.3px;
+  height: 53.6px;
+}
+.ac-icon1 {
+  position: absolute;
+  top: 15.3px;
+  left: 15.8px;
+  width: 41.4px;
+  height: 24.9px;
+  object-fit: cover;
+}
+.ac-room1,
+.wifi3 {
+  position: absolute;
+  top: 0;
+  left: 68.1px;
+  width: 73px;
+  height: 72.7px;
+}
+.wifi3 {
+  top: 61.2px;
+  left: 15.8px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 27.6px;
+  height: 11.5px;
+}
+.wifi-icon1 {
+  position: absolute;
+  top: 3.8px;
+  left: 3.9px;
+  width: 47.4px;
+  height: 46px;
+  object-fit: cover;
+}
+.fitness3,
+.wifi2 {
+  position: absolute;
+  top: 0;
+  left: 153.9px;
+  width: 55.3px;
+  height: 72.7px;
+}
+.fitness3 {
+  top: 61.2px;
+  left: 1px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 54.3px;
+  height: 11.5px;
+}
+.fitness-icon1 {
+  position: absolute;
+  top: 13.4px;
+  left: 4.9px;
+  width: 45.4px;
+  height: 26.8px;
+  object-fit: cover;
+}
+.facilities1,
+.fitness2 {
+  position: absolute;
+  top: 0;
+  left: 230.9px;
+  width: 55.3px;
+  height: 72.7px;
+}
+.facilities1 {
+  top: 137.6px;
+  left: 0;
+  width: 286.2px;
+  font-size: var(--font-size-smi);
+}
+.text-facilities-offers-butt {
+  position: absolute;
+  top: 0;
+  left: 422.8px;
+  width: 486.2px;
+  height: 210.4px;
+  font-size: var(--font-size-20xl);
+}
+.content,
+.section-21 {
+  position: absolute;
+  top: 72px;
+  left: 86px;
+  width: 909px;
+  height: 543px;
+}
+.section-21 {
+  top: 817px;
+  left: 0;
+  width: 1024px;
+  height: 687px;
+  font-size: var(--font-size-xs);
+}
+.pool-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 871px;
+  height: 528px;
+  object-fit: cover;
+}
+.white-box-on-pool-bottom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 563px;
+  height: 106.2px;
+}
+.date2,
+.entr1 {
+  position: absolute;
+  left: 43.7px;
+  display: inline-block;
+}
+.entr1 {
+  top: 7.1px;
+  font-weight: 600;
+  width: 66.1px;
+  height: 21.2px;
+}
+.date2 {
+  top: 31.9px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-questrial);
+  width: 38.9px;
+  height: 11.8px;
+}
+.entre-item {
+  position: absolute;
+  top: 6.6px;
+  left: 163.6px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 36.4px;
+}
+.orange-calendar-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 34.2px;
+  height: 30.7px;
+  object-fit: cover;
+}
+.entre1,
+.sortie2 {
+  position: absolute;
+  top: 1.2px;
+  left: 0;
+  width: 164.1px;
+  height: 43.7px;
+}
+.sortie2 {
+  left: 188.8px;
+}
+.ajouter1,
+.nombres1 {
+  position: absolute;
+  left: 42.5px;
+  display: inline-block;
+}
+.nombres1 {
+  top: 8.3px;
+  font-weight: 600;
+  width: 79.1px;
+  height: 21.2px;
+}
+.ajouter1 {
+  top: 33px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-questrial);
+  width: 51.9px;
+  height: 11.8px;
+}
+.user-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 33px;
+  height: 31.9px;
+  object-fit: cover;
+}
+.nombres-de-personne1,
+.white-box-content1 {
+  position: absolute;
+  top: 0;
+  left: 380px;
+  width: 121.6px;
+  height: 44.8px;
+}
+.white-box-content1 {
+  top: 30.7px;
+  left: 30.7px;
+  width: 501.6px;
+}
+.white-box-filled {
+  position: absolute;
+  top: 422px;
+  left: 145px;
+  box-shadow: 35px -18px 59px rgba(0, 0, 0, 0.37);
+  width: 563px;
+  height: 106.2px;
+}
+.pool-box,
+.white-bg1 {
+  position: absolute;
+  top: 1px;
+  left: 19px;
+  width: 871px;
+  height: 528.2px;
+}
+.white-bg1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 417.8px;
+  height: 352.9px;
+}
+.explore-rooms-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1a1a1a;
+  width: 129.3px;
+  height: 46.1px;
+}
+.dcouvrir {
+  position: absolute;
+  top: 15px;
+  left: 30px;
+  font-weight: 500;
+  display: inline-block;
+  width: 71px;
+  height: 16px;
+}
+.explore-rooms-button {
+  position: absolute;
+  top: 289px;
+  left: 19px;
+  width: 129.3px;
+  height: 46.1px;
+}
+.dtendez-vous1 {
+  position: absolute;
+  top: 0;
+  width: 380px;
+}
+.complexe1,
+.dans-notre1,
+.dtendez-vous1 {
+  left: 0;
+  display: inline-block;
+  height: 59px;
+}
+.dans-notre1 {
+  position: absolute;
+  top: 55.5px;
+  width: 380px;
+}
+.complexe1 {
+  top: 112.1px;
+}
+.complexe1,
+.detendez-vous1,
+.luxueux1 {
+  position: absolute;
+  width: 380px;
+}
+.luxueux1 {
+  top: 167.6px;
+  left: 0;
+  display: inline-block;
+  height: 59px;
+}
+.detendez-vous1 {
+  top: 37.6px;
+  left: 18.9px;
+  height: 226.6px;
+  font-size: var(--font-size-27xl);
+  color: var(--color-black);
+  font-family: var(--font-inria-serif);
+}
+.detendez-vous-white-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 417.8px;
+  height: 352.9px;
+  color: var(--color-white);
+}
+.section-11 {
+  position: absolute;
+  top: 172px;
+  left: 67px;
+  width: 890px;
+  height: 529.2px;
+  font-family: var(--font-gothic-a1);
+}
+.logo-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 154px;
+  height: 82px;
+  object-fit: cover;
+}
+.register-button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 129px;
+  height: 38px;
+}
+.senregistrer1 {
+  position: absolute;
+  top: 10px;
+  left: 19px;
+  font-weight: 500;
+  display: inline-block;
+  width: 93px;
+  height: 13px;
+}
+.register-button1 {
+  position: absolute;
+  top: 30px;
+  left: 665px;
+  width: 129px;
+  height: 38px;
+}
+.heroicons-solidmenu {
+  position: absolute;
+  top: 17px;
+  left: 824px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.navbar1 {
+  position: absolute;
+  top: 24px;
+  left: 79px;
+  width: 888px;
+  height: 82px;
+  color: var(--color-white);
+  font-family: var(--font-gothic-a1);
+}
+.tablette-ipad-pro-129 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4265px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-questrial);
+}
