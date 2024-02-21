@@ -1,0 +1,1366 @@
+body{
+  margin: 0px;
+  padding:0px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+/* .bg, */
+.black-bg {
+  position: absolute;
+  top: 1022px;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 358px;
+  height: 1022px;
+}
+.black-bg {
+  top: 717px;
+  background-color: var(--color-gray-100);
+  height: 387px;
+}
+.social-medias-icon {
+  position: absolute;
+  top: 756px;
+  left: 24px;
+  width: 130.6px;
+  height: 35px;
+}
+.a-propos1,
+.contact {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.a-propos1 {
+  top: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 56.4px;
+  height: 16.7px;
+}
+.contact {
+  top: 47.1px;
+  width: 55.4px;
+  height: 14.6px;
+}
+.a-propos,
+.news-blog {
+  position: absolute;
+  width: 71px;
+}
+.news-blog {
+  top: 80.6px;
+  left: 0;
+  display: inline-block;
+  height: 14.6px;
+}
+.a-propos {
+  top: 850.5px;
+  left: 23px;
+  height: 95.2px;
+}
+.chambres,
+.entreprise1,
+.partenaires {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.entreprise1 {
+  top: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 85px;
+  height: 16.7px;
+}
+.chambres,
+.partenaires {
+  top: 47.1px;
+  width: 80.6px;
+  height: 14.6px;
+}
+.chambres {
+  top: 80.6px;
+  width: 81.7px;
+}
+.entreprise,
+.terms-politique {
+  position: absolute;
+  top: 850px;
+  left: 131px;
+  width: 85px;
+  height: 95.2px;
+}
+.terms-politique {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: inline-block;
+  width: 118.5px;
+  height: 16.7px;
+}
+.politique-de-confidentialite,
+.support {
+  position: absolute;
+  top: 47.1px;
+  left: 0;
+  display: inline-block;
+  width: 112.3px;
+  height: 14.6px;
+}
+.support {
+  top: 80.6px;
+  width: 113.9px;
+}
+.footer,
+.terms-et-politique {
+  position: absolute;
+  top: 850.8px;
+  left: 235px;
+  width: 118.5px;
+  height: 95.2px;
+}
+.footer {
+  top: 3075px;
+  left: 0;
+  width: 358px;
+  height: 1104px;
+  color: var(--color-darkgray);
+}
+.que-disent-les {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.01em;
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  width: 338px;
+  height: 97.9px;
+}
+.le-service-client {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+}
+.blank-line {
+  margin: 0;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.le-service-client-container {
+  position: absolute;
+  top: 43px;
+  left: 11px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 314px;
+  height: 110px;
+  color: var(--color-dimgray);
+}
+.alex-smith,
+.photographe {
+  position: absolute;
+  letter-spacing: 0.03em;
+  display: inline-block;
+  height: 14px;
+}
+.photographe {
+  top: 192px;
+  left: 121px;
+  color: var(--color-dimgray);
+  width: 83px;
+}
+.alex-smith {
+  top: 169px;
+  left: 123px;
+  font-size: var(--font-size-mini);
+  width: 89px;
+}
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 338px;
+  height: 206px;
+}
+.star-icon,
+.star-icon1,
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 11.7px;
+  height: 11.7px;
+  object-fit: cover;
+}
+.star-icon1,
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  left: 17px;
+}
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  left: 34px;
+}
+.star-icon3,
+.star-icon4 {
+  left: 51.1px;
+}
+.star-icon4 {
+  left: 68.1px;
+}
+.arrow-right-child,
+.stars {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 79.8px;
+  height: 11.7px;
+}
+.arrow-right-child {
+  left: 0;
+  background-color: var(--color-black);
+  width: 35.1px;
+  height: 28.7px;
+}
+.arrow-right-item {
+  position: absolute;
+  top: 2.1px;
+  left: 8.5px;
+  width: 19.2px;
+  height: 24.4px;
+  object-fit: cover;
+}
+.arrow-left-child,
+.arrow-right {
+  position: absolute;
+  top: 0;
+  left: 50.3px;
+  width: 35.1px;
+  height: 28.7px;
+}
+.arrow-left-child {
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.arrow-left-item {
+  position: absolute;
+  top: 1.1px;
+  left: 12.8px;
+  width: 10.6px;
+  height: 24.5px;
+  object-fit: cover;
+}
+.arrow-left,
+.arrows,
+.testimonials1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 35.1px;
+  height: 28.7px;
+}
+.arrows,
+.testimonials1 {
+  top: 32px;
+  width: 85.4px;
+}
+.testimonials1 {
+  top: 237px;
+  left: 126px;
+  height: 60.7px;
+}
+.sabonner-notre,
+.testimonials {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  width: 338px;
+  height: 297.7px;
+}
+.sabonner-notre {
+  left: 0;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 358px;
+  height: 92px;
+}
+.memorable {
+  margin: 0;
+}
+.pour-rendre-votre-container {
+  position: absolute;
+  top: 42px;
+  left: 22px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-questrial);
+  color: var(--color-gray-200);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 314px;
+  height: 37px;
+}
+.button-border,
+.sabonner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 358px;
+  height: 92px;
+}
+.button-border {
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 149.3px;
+  height: 37px;
+}
+.prenom {
+  position: absolute;
+  top: 14px;
+  left: 49.3px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 47.7px;
+  height: 10px;
+}
+.nom,
+.reservez-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 149.3px;
+  height: 37px;
+}
+.nom {
+  top: 12px;
+  left: 58.8px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 31.2px;
+  height: 10px;
+}
+.email,
+.reservez-button1 {
+  position: absolute;
+  top: 0;
+  left: 164.7px;
+  width: 149.3px;
+  height: 37px;
+}
+.email {
+  top: 12px;
+  left: 58.5px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 32px;
+  height: 10px;
+}
+.button-border3,
+.reservez-button2 {
+  position: absolute;
+  top: 59px;
+  left: 0.8px;
+  width: 149.3px;
+  height: 37px;
+}
+.button-border3 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+}
+.sabonner-maintenant {
+  position: absolute;
+  top: 12px;
+  left: 14.6px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 122.4px;
+  height: 18px;
+}
+.universel-button {
+  position: absolute;
+  top: 59px;
+  left: 164.7px;
+  width: 149.3px;
+  height: 37px;
+  color: var(--color-white);
+}
+.buttons {
+  position: absolute;
+  top: 111px;
+  left: 22px;
+  width: 314px;
+  height: 96px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-questrial);
+}
+.section-6,
+.ssbonner {
+  position: absolute;
+  left: 0;
+  width: 358px;
+}
+.ssbonner {
+  top: 403px;
+  height: 207px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inria-serif);
+}
+.section-6 {
+  top: 3108px;
+  height: 610px;
+  text-align: center;
+}
+.button-border4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 96px;
+  height: 38px;
+}
+.reservez {
+  position: absolute;
+  top: 13px;
+  left: 23px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 50px;
+  height: 12px;
+}
+.reservez-button3 {
+  position: absolute;
+  top: 430.4px;
+  left: 114px;
+  width: 96px;
+  height: 38px;
+}
+.chambre-confortble-decore-container {
+  position: absolute;
+  top: 355.4px;
+  left: 0;
+  letter-spacing: 0.01em;
+  color: var(--color-gray-200);
+  text-align: center;
+  display: inline-block;
+  width: 313px;
+  height: 58px;
+}
+.waiting-area,
+.waiting-area-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 316.8px;
+}
+.waiting-area-icon {
+  height: 330.5px;
+  object-fit: cover;
+}
+.waiting-area {
+  height: 468.4px;
+}
+.reservez-button4 {
+  position: absolute;
+  top: 436.9px;
+  left: 114px;
+  width: 96px;
+  height: 38px;
+}
+.les-chambres-suprieures-container {
+  position: absolute;
+  top: 359.9px;
+  left: 0;
+  letter-spacing: -0.01em;
+  color: var(--color-gray-200);
+  text-align: center;
+  display: inline-block;
+  width: 317px;
+  height: 57px;
+}
+.bed-and-view1 {
+  position: absolute;
+  top: 0;
+  left: 0.2px;
+  width: 316.8px;
+  height: 330.5px;
+  object-fit: cover;
+}
+.bed-and-view,
+.offers {
+  position: absolute;
+  top: 544.5px;
+  left: 0;
+  width: 317px;
+  height: 474.9px;
+}
+.offers {
+  top: 60.6px;
+  height: 1019.4px;
+}
+.dcouvrez-notre-galerie {
+  position: absolute;
+  top: 0;
+  left: 7px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  text-align: center;
+  width: 310px;
+  height: 40px;
+}
+.section-5 {
+  position: absolute;
+  top: 1954px;
+  left: 19px;
+  width: 317px;
+  height: 1080px;
+}
+.reservez-button5 {
+  position: absolute;
+  top: 343px;
+  left: 114px;
+  width: 96px;
+  height: 38px;
+}
+.meal-and-view-marina {
+  position: absolute;
+  top: 126px;
+  left: 0;
+  width: 324px;
+  height: 184px;
+  object-fit: cover;
+}
+.nous-sommes-respesctueux {
+  margin-block-start: 0;
+  margin-block-end: 11px;
+}
+.nous-sommes-respesctueux-container,
+.restaurant {
+  position: absolute;
+  top: 43.9px;
+  left: 0;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 291px;
+  height: 60.3px;
+}
+.restaurant {
+  top: 0;
+  left: 93.2px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  text-align: left;
+  width: 105.3px;
+  height: 28.6px;
+}
+.text-header {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 291px;
+  height: 104.2px;
+  text-align: center;
+}
+.nos-services,
+.section-4 {
+  position: absolute;
+  top: 1468px;
+  left: 19px;
+  width: 324px;
+  height: 381px;
+}
+.nos-services {
+  top: 0;
+  left: 0;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 330px;
+  height: 23px;
+}
+.les-services-du-container {
+  position: absolute;
+  top: 39px;
+  left: 4px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-questrial);
+  display: inline-block;
+  width: 314px;
+  height: 28px;
+}
+.text1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 330px;
+  height: 67px;
+}
+.salle-de-detente {
+  position: absolute;
+  top: 43.7px;
+  left: 34.1px;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 100.7px;
+  height: 11.5px;
+}
+.detente-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 158px;
+  height: 72.3px;
+}
+.detente-icon {
+  position: absolute;
+  top: 13.6px;
+  left: 62.7px;
+  width: 29.4px;
+  height: 22.2px;
+  object-fit: cover;
+}
+.detente,
+.restaurant-box {
+  position: absolute;
+  top: 0;
+  left: 166px;
+  width: 158px;
+  height: 72.3px;
+}
+.restaurant-box {
+  left: 0;
+  background-color: var(--color-black);
+  width: 152px;
+}
+.restaurant2 {
+  position: absolute;
+  top: 45.1px;
+  left: 44px;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 67.8px;
+  height: 11.5px;
+}
+.restaurant-icon {
+  position: absolute;
+  top: 12.9px;
+  left: 63.3px;
+  width: 26.8px;
+  height: 27.2px;
+  object-fit: cover;
+}
+.restaurant1 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 152px;
+  height: 72.3px;
+  color: var(--color-peru);
+}
+.salle-de-conference {
+  position: absolute;
+  top: 49.2px;
+  left: 20.3px;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 125.7px;
+  height: 12.5px;
+}
+.conference-icon {
+  position: absolute;
+  top: 12.5px;
+  left: 62.5px;
+  width: 32px;
+  height: 29.7px;
+  object-fit: cover;
+}
+.conference,
+.conference-box,
+.piscine1 {
+  position: absolute;
+  left: 0;
+  width: 154.4px;
+  height: 77.2px;
+}
+.conference-box {
+  top: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+}
+.conference,
+.piscine1 {
+  top: 83.8px;
+}
+.piscine1 {
+  top: 49px;
+  left: 55.7px;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 44.5px;
+  height: 12.5px;
+}
+.piscine-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 158px;
+  height: 77px;
+}
+.piscine-icon {
+  position: absolute;
+  top: 8.4px;
+  left: 59.6px;
+  width: 48.4px;
+  height: 31.2px;
+  object-fit: cover;
+}
+.piscine {
+  position: absolute;
+  top: 84px;
+  left: 166px;
+  width: 158px;
+  height: 77px;
+}
+.section-3,
+.services {
+  position: absolute;
+  top: 126px;
+  left: 4px;
+  width: 324px;
+  height: 161px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-questrial);
+}
+.section-3 {
+  top: 1104px;
+  left: 15px;
+  width: 330px;
+  height: 287px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inria-serif);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.section-2-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-snow);
+  width: 360px;
+  height: 540px;
+}
+.text2 {
+  position: absolute;
+  top: 29px;
+  left: 15px;
+  width: 330px;
+  height: 67px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inria-serif);
+}
+
+
+.ellipse-tv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-peru);
+  box-sizing: border-box;
+  width: 55.3px;
+  height: 53.6px;
+}
+.tv-led {
+  position: absolute;
+  top: 61px;
+  left: 9px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 38px;
+  height: 12px;
+}
+.led-tv-icon {
+  position: absolute;
+  top: 14.4px;
+  left: 6.9px;
+  width: 41.4px;
+  height: 24.9px;
+  object-fit: cover;
+}
+.climatisee,
+.led-tv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 55.3px;
+  height: 73px;
+}
+.climatisee {
+  top: 61px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 62px;
+  height: 12px;
+}
+.ellipse-ac {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-peru);
+  box-sizing: border-box;
+  width: 55.3px;
+  height: 53.6px;
+}
+.ac-icon {
+  position: absolute;
+  top: 15.3px;
+  left: 9.9px;
+  width: 41.4px;
+  height: 24.9px;
+  object-fit: cover;
+}
+.ac-room,
+.wifi1 {
+  position: absolute;
+  top: 0;
+  left: 74px;
+  width: 62px;
+  height: 73px;
+}
+.wifi1 {
+  top: 61px;
+  left: 16.1px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 24px;
+  height: 12px;
+}
+.wifi-icon {
+  position: absolute;
+  top: 3.8px;
+  left: 3.9px;
+  width: 47.4px;
+  height: 46px;
+  object-fit: cover;
+}
+.fitness1,
+.wifi {
+  position: absolute;
+  top: 0;
+  left: 153.9px;
+  width: 55.3px;
+  height: 73px;
+}
+.fitness1 {
+  top: 61px;
+  left: 6.1px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 45px;
+  height: 12px;
+}
+.fitness-icon {
+  position: absolute;
+  top: 13.4px;
+  left: 4.9px;
+  width: 45.4px;
+  height: 26.8px;
+  object-fit: cover;
+}
+.facilities,
+.fitness {
+  position: absolute;
+  top: 0;
+  left: 230.9px;
+  width: 55.3px;
+  height: 73px;
+}
+.facilities {
+  top: 128px;
+  left: 33px;
+  width: 286.2px;
+  font-size: var(--font-size-2xs);
+}
+.bottom-left-bed-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 326px;
+  height: 210px;
+  object-fit: cover;
+}
+.orange-band,
+.transparent-bg {
+  position: absolute;
+  top: 0;
+  left: 0.8px;
+  background-color: var(--color-gainsboro-100);
+  width: 141.9px;
+  height: 97.1px;
+}
+.orange-band {
+  top: 0.8px;
+  left: 0;
+  background-color: var(--color-peru);
+  width: 3.9px;
+  height: 96.3px;
+}
+.discount-bg-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 142.7px;
+  height: 97.1px;
+}
+.de-reduction,
+.div,
+.ou-plus,
+.sejour-2-nuits {
+  position: absolute;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.de-reduction {
+  top: 11.3px;
+  left: 38px;
+  font-size: 10px;
+  font-weight: 600;
+  font-family: var(--font-gothic-a1);
+  width: 81px;
+  height: 12px;
+}
+.div,
+.ou-plus,
+.sejour-2-nuits {
+  top: 32.3px;
+  left: 0;
+  width: 101px;
+  height: 9px;
+}
+.div,
+.ou-plus {
+  top: 47.3px;
+  left: 2px;
+  width: 84px;
+}
+.div {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  width: 54.4px;
+  height: 22.9px;
+}
+.discount-box,
+.discount-box-content {
+  position: absolute;
+  top: 18.2px;
+  left: 15px;
+  width: 119px;
+  height: 56.3px;
+}
+.discount-box {
+  top: 113.5px;
+  left: 0;
+  width: 142.7px;
+  height: 97.1px;
+}
+.bottom-left-bed,
+.voir-les-offres {
+  position: absolute;
+  top: 296px;
+  left: 17px;
+  width: 326px;
+  height: 210.5px;
+}
+.voir-les-offres {
+  top: 13px;
+  left: 13px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 73px;
+  height: 12px;
+}
+.offers-button {
+  position: absolute;
+  top: 232px;
+  left: 132px;
+  width: 96px;
+  height: 38px;
+}
+.section-2,
+.slide-spot-icon {
+  position: absolute;
+  top: 519px;
+  left: 159px;
+  width: 42px;
+  height: 6px;
+}
+.section-2 {
+  top: 499px;
+  left: 0;
+  width: 360px;
+  height: 540px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* hero de la section 1************************************* */
+.pool-icon,
+.white-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.pool-icon {
+  width: 360px;
+  height: 218px;
+  object-fit: cover;
+}
+.white-bg {
+  background-color: var(--color-gray-300);
+  width: 148px;
+  height: 142px;
+}
+.complexe,
+.dans-notre,
+.dtendez-vous,
+.luxueux {
+  position: absolute;
+  top: 3px;
+  left: 8px;
+  display: inline-block;
+  width: 133px;
+  height: 26px;
+}
+.complexe,
+.dans-notre,
+.luxueux {
+  top: 27px;
+}
+.complexe,
+.luxueux {
+  top: 52px;
+}
+.luxueux {
+  top: 76px;
+}
+.decouvrir-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 67px;
+  height: 24px;
+}
+.decouvrir {
+  position: absolute;
+  top: 4.8px;
+  left: 6px;
+  font-weight: 500;
+  display: inline-block;
+  width: 55px;
+  height: 8.3px;
+}
+.decouvrir-button {
+  position: absolute;
+  top: 107px;
+  left: 8px;
+  width: 67px;
+  height: 24px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-gothic-a1);
+}
+
+
+
+.detendez-vous {
+  position: absolute;
+  top: 16px;
+  left: 14px;
+  width: 148px;
+  height: 142px;
+}
+
+
+
+
+/* icone de la sectio 1 ********************************* */
+
+
+.ajouter,
+.nombres {
+  position: absolute;
+  left: 77.3px;
+  display: inline-block;
+}
+.nombres {
+  top: 0;
+  font-weight: 600;
+  width: 143.8px;
+  height: 21.2px;
+}
+.ajouter {
+  top: 24.8px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-questrial);
+  width: 94.5px;
+  height: 11.8px;
+}
+.user-icon {
+  position: absolute;
+  top: 1.7px;
+  left: 0;
+  width: 60.1px;
+  height: 31.9px;
+  object-fit: cover;
+}
+.nombres-de-personne,
+.sortie-child {
+  position: absolute;
+  top: 132.4px;
+  left: 0.6px;
+  width: 221.1px;
+  height: 36.6px;
+}
+.sortie-child {
+  top: 47.3px;
+  left: 16.4px;
+  width: 256px;
+  height: 1px;
+}
+.date,
+.sortie1 {
+  position: absolute;
+  left: 79.4px;
+  display: inline-block;
+}
+.sortie1 {
+  top: 0;
+  font-weight: 600;
+  width: 120.2px;
+  height: 21.2px;
+}
+.date {
+  top: 24.8px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-questrial);
+  width: 70.9px;
+  height: 11.8px;
+}
+.orange-calendar-icon {
+  position: absolute;
+  top: 0.9px;
+  left: 0;
+  width: 62.3px;
+  height: 30.7px;
+  object-fit: cover;
+}
+.entre-child,
+.sortie {
+  position: absolute;
+  top: 66.2px;
+  left: 0.6px;
+  width: 272.4px;
+  height: 47.8px;
+}
+.entre-child {
+  top: 48.5px;
+  left: 17px;
+  width: 256px;
+  height: 1px;
+}
+.date1,
+.entr {
+  position: absolute;
+  left: 80px;
+  display: inline-block;
+}
+.entr {
+  top: 0.1px;
+  font-weight: 600;
+  width: 120.2px;
+  height: 21.2px;
+}
+.date1 {
+  top: 24.9px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-questrial);
+  width: 70.9px;
+  height: 11.8px;
+}
+.orange-calendar-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62.3px;
+  height: 30.7px;
+  object-fit: cover;
+}
+.entre,
+.white-box-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 273px;
+  height: 49px;
+}
+.white-box-content {
+  top: 233px;
+  left: 36px;
+  height: 169px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-gothic-a1);
+}
+
+
+
+
+/* nav et section 1 début************************************************** */
+
+
+
+
+.logo-icon,
+.section-1 {
+  position: absolute;
+  left: 0;
+}
+.section-1 {
+  top: 74px;
+  width: 360px;
+  height: 402px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inria-serif);
+}
+.logo-icon {
+  top: 0;
+  width: 98px;
+  height: 51px;
+  object-fit: cover;
+}
+.menu-icon {
+  position: absolute;
+  top: 16px;
+  left: 300px;
+  width: 27px;
+  height: 24px;
+  overflow: hidden;
+}
+.register-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 89px;
+  height: 24px;
+}
+.senregistrer {
+  position: absolute;
+  top: 5px;
+  left: 7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 75px;
+  height: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar,
+.register-button {
+  position: absolute;
+  top: 16px;
+  left: 187px;
+  width: 89px;
+  height: 24px;
+}
+.navbar {
+  top: 8px;
+  left: 14px;
+  width: 327px;
+  height: 51px;
+  color: var(--color-white);
+  font-family: var(--font-gothic-a1);
+}
+.mobile-android-large {
+  /* position: relative; */
+  display:flex;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4097px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-questrial);
+}
